@@ -21,7 +21,7 @@
   },
   {
     "icon": "Book",
-    "name": "笔记本",
+    "name": "笔记",
     "link": "https://note.saass.site/"
   },
   {
@@ -31,7 +31,7 @@
   },
   {
     "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.saass.site/"
+    "name": "网站工具",
+    "link": "https://tinywow.com/"
   }
 ]
