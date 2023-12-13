@@ -43,16 +43,11 @@
 <script setup>
 import { Icon } from "@vicons/utils";
 // 可前往 https://www.xicons.org 自行挑选并在此处引入
-import {
-  Link,
-  Blog,
-  MusicNote120Regular,
-  Cloud,
-  MoviesAndTv20Regular,
-  EditNoteFilled,
-  HybridNetworkingAlt,
-  ApartmentOutlined,
-  LaptopCode } from "@vicons/fa"; // 注意使用正确的类别
+import { Link,Blog,Cloud,LaptopCode } from "@vicons/fa"; // 注意使用正确的类别
+import { MusicNote120Regular,MoviesAndTv20Regular } from "@vicons/fluent"
+import { EditNoteFilled } from "@vicons/material"
+import { HybridNetworkingAlt } from "@vicons/carbon"
+import { ApartmentOutlined } from "@vicons/antd"
 import { mainStore } from "@/store";
 import { Swiper, SwiperSlide } from "swiper/vue";
 import { Pagination, Mousewheel } from "swiper";
