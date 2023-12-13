@@ -10,22 +10,27 @@
     "link": "https://pan.saass.site/"
   },
   {
-    "icon": "CompactDisc",
+    "icon": "MusicNote120Regular",
     "name": "音乐",
     "link": "https://music.saass.site/"
   },
   {
-    "icon": "Compass",
+    "icon": "MoviesAndTv20Regular",
     "name": "电影",
     "link": "https://mv.saass.site/"
   },
   {
-    "icon": "Book",
+    "icon": "EditNoteFilled",
     "name": "笔记",
     "link": "https://note.saass.site/"
   },
   {
-    "icon": "Fire",
+    "icon": "HybridNetworkingAlt",
+    "name": "网络管理",
+    "link": "https://nmyip.saass.site/"
+  }, 
+  {
+    "icon": "ApartmentOutlined",
     "name": "网络管理",
     "link": "https://nps.saass.site/"
   },
