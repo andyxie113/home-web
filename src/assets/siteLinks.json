@@ -1,7 +1,7 @@
 [
   {
     "icon": "Blog",
-    "name": "博客",
+    "name": "我的博客",
     "link": "https://blog.saass.site/"
   },
   {
@@ -35,8 +35,13 @@
     "link": "https://nps.saass.site/"
   },
   {
-    "icon": "LaptopCode",
-    "name": "《友链》",
+    "icon": "LinkSquare12Filled",
+    "name": "穆雄雄的博客",
+    "link": "https://www.88688.team/"
+  },
+  {
+    "icon": "LinkSquare12Filled",
+    "name": "安瑾然的储物空间",
     "link": "https://www.88688.team/"
   }
 ]

@@ -44,7 +44,7 @@
 import { Icon } from "@vicons/utils";
 // 可前往 https://www.xicons.org 自行挑选并在此处引入
 import { Link,Blog,Cloud,LaptopCode } from "@vicons/fa"; // 注意使用正确的类别
-import { MusicNote120Regular,MoviesAndTv20Regular } from "@vicons/fluent"
+import { MusicNote120Regular,MoviesAndTv20Regular,LinkSquare12Filled } from "@vicons/fluent"
 import { EditNoteFilled } from "@vicons/material"
 import { HybridNetworkingAlt } from "@vicons/carbon"
 import { ApartmentOutlined } from "@vicons/antd"
@@ -77,6 +77,7 @@ const siteIcon = {
   HybridNetworkingAlt,
   ApartmentOutlined,
   LaptopCode,
+  LinkSquare12Filled
 };
 
 // 链接跳转
